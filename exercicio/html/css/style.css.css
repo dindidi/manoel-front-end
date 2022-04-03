@@ -1,0 +1,186 @@
+
+
+
+* {
+  box-sizing: border-box;
+
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html {
+	margin: 0;
+	padding: 0;
+	font-family: serif;
+}
+
+body {
+	background-color: white;
+}
+
+
+
+h1,h2 p, li {
+	 font-family: Arial, Helvetica, sans-serif;
+	 color: ;
+}
+
+a {
+	color: #336;
+	text-decoration: none;
+
+}
+#primeiro-link a {
+	color: #993;
+}
+
+ul {
+	background-color: none;
+}
+
+.navegacao {
+	background-color: #fffffff;
+}
+
+form div {
+  border-radius: 3rem;
+  background: #fff;
+  border: 0;
+  border-bottom: 1px solid #01010e;
+  /* border-top: 1px solid #33f;
+  border-right:1px solid #33f;
+  border-left: 1px solid #33f;
+  */
+  margin: 1rem 2rem;
+  padding: 2rem;
+ 
+
+}
+
+header {
+	background-image:url(https://engenharia360.com/wp-content/uploads/2021/11/ConTI-Consultoria-1024x683.jpg); 
+	padding: 4rem;
+  text-align: center;
+  color: white;
+
+
+}
+
+label {
+  margin-bottom: 1rem;
+  font-size: 0.7rem;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #666;
+}
+
+input {
+  padding: 1rem;
+}
+
+
+
+[type="text"], [type="email"], textarea {
+	display: block;
+  width: 100%;
+
+}
+
+}
+
+a {
+	color: #336;
+	text-decoration: none;
+}
+}
+
+
+header {
+  background-color: #666 ;
+  padding: 30px;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  
+ 
+}
+
+
+nav {
+  float: left;
+  width: 30%;
+  background: ;
+  padding: 35px;
+}
+
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: #f1f1f1;
+}
+
+
+section::after {
+  background: #ccc;
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+footer {
+  background-image:url(https://engenharia360.com/wp-content/uploads/2021/11/ConTI-Consultoria-1024x683.jpg);
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+/* 
+   top(cima)
+   bottom (baixo)
+   left (esquerda)
+   right( direita)
+   
+}
+   */
+form div { 
+     position: static; 
+     position: relative;
+     top: -10px;
+
+   }
+
+label {
+  position: ;
+}   
+
+.classe, #id, body {
+
+
+}
