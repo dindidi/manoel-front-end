@@ -1,0 +1,75 @@
+*{
+    
+	
+	
+    @media (max-width: 1024px){
+        nav,
+        ul,
+        h3,
+        article,
+        header {
+            width: 100%;
+            min-width: 600px;
+        }
+      }	  
+  
+     
+      @media (max-width: 740px){
+      nav,
+      article,
+      header {
+      
+          width: 100%;
+          min-width: 360px;
+          
+  
+        }
+    }  
+  
+      @media (max-width: 720px){
+          nav,
+          article,
+          header {
+              width: 100%;
+              min-width: 540px;
+  
+          }
+      }  
+  
+  
+      @media (max-width: 667px){
+      nav,
+      ul,
+      h3,
+      article,
+      header,
+       {
+          width: 100%;
+          min-width: 375px;
+  
+      
+  
+        }
+    }  
+  
+    
+  
+  
+  
+      @media (max-width: 425px){
+      nav,
+      article,
+      header {
+          width: 100%;
+          min-width: 320px;
+      }
+  } 
+      
+      
+  
+      
+  
+  
+  
+  } 
+  
